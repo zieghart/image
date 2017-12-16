@@ -1,0 +1,39 @@
+body {
+
+
+/ / 自动换行;
+/ / word-wrap: break-word;
+/ / overflow: hidden;
+    word-break: break-all;
+
+    background-color: #CDCDCD;
+
+    margin-right: 2%;
+    margin-left: 2%;
+
+    border: 3px double white;
+
+    padding: 10px 10px 10px 15px;
+
+    font-size: larger;
+}
+
+ul li {
+    margin: 50px;
+}
+
+img#rightImage {
+    float: right;
+    margin-right: 2%;
+    border: 3px double white;
+}
+#waitForShow{
+
+}
+
+p#showText{
+
+}
+a#showA{
+
+}
